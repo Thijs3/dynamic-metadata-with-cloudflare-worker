@@ -1,9 +1,9 @@
 export const config = {
-  domainSource: "https://f69a71f6-9fd8-443b-a040-78beb5d404d4.weweb-preview.io", // Your WeWeb app preview link
+  domainSource: "https://d1757b15-7b01-4da9-80e6-7a882e779306/b8c679d9-aaf7-4bc3-81fa-b4f6dcaeaa22.weweb-preview.io", // Your WeWeb app preview link
   patterns: [
       {
-          pattern: "/event/[^/]+",
-          metaDataEndpoint: "https://xeo6-2sgh-ehgj.n7.xano.io/api:8wD10mRd/event/{id}/meta"
+          pattern: "/artikel/[^/]+",
+          metaDataEndpoint: "https://xpbn-wusf-50q5.f2.xano.io/api:_vMbLsQj/1_artikelen/artikel_metadata"
       },
       {
           pattern: "/team/profile/[^/]+",
